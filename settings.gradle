@@ -1,0 +1,2 @@
+rootProject.name='himatsubushi-app'
+include ':app'
